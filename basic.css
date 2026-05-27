@@ -22,6 +22,7 @@ h2 {
 }
 
 h1 {
+    text-shadow: -10px 4px 3px #92e7cc;
     margin-top: 0;
     text-align: center;
     font-size: 50px;
